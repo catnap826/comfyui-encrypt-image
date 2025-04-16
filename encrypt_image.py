@@ -19,7 +19,7 @@ from PIL.PngImagePlugin import PngInfo
 
 import numpy as np
 
-_password = '123qwe'
+_password = 'catnap_encrypt'
 
             
 if PILImage.Image.__name__ != 'EncryptedImage':
